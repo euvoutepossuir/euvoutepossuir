@@ -7,7 +7,7 @@
 </div
   
   
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=euvoutepossuir&color=blueviolet)
   
 Olá, o meu nome é Daniel Santos e tenho 15 anos, começei a estudar sobre programação desde 2020 e modelagem 3d este ano, futuramente procuro virar um grande desenvolvedor de sites em HTML e WordPress e me aprofundar em Java. :smiley:
 
